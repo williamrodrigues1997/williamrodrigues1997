@@ -1,8 +1,8 @@
 
 ## William Rodrigues
 <div>
-  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=williamrodrigues1997&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs&theme=prussian"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamrodrigues1997&layout=compact&langs_count=8&theme=prussian"/>
+  <img height="150em"src="https://github-readme-stats.vercel.app/api?username=williamrodrigues1997&show_icons=true&include_all_commits=true&count_private=true&hide=stars,issues,contribs&theme=vue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamrodrigues1997&layout=compact&langs_count=8&theme=vue"/>
 </div>
 
 ## Skills
@@ -24,4 +24,5 @@
 
 [Instagram](https://www.instagram.com/yes.will/)
 
+##
 ![Snake animation](https://github.com/williamrodrigues1997/williamrodrigues1997/blob/output/github-contribution-grid-snake.svg)
